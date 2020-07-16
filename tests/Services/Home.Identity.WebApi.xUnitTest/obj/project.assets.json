@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Home.Framework/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Home.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Home.Framework.dll": {}
+        }
+      },
+      "Home.Identity.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Home.Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Home.Identity.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Home.Identity.WebApi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Home.Framework/1.0.0": {
+      "type": "project",
+      "path": "../../../src/Frameworks/Home.Framework/Home.Framework.csproj",
+      "msbuildProject": "../../../src/Frameworks/Home.Framework/Home.Framework.csproj"
+    },
+    "Home.Identity.WebApi/1.0.0": {
+      "type": "project",
+      "path": "../../../src/Services/Identity/Home.Identity.WebApi/Home.Identity.WebApi.csproj",
+      "msbuildProject": "../../../src/Services/Identity/Home.Identity.WebApi/Home.Identity.WebApi.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Home.Identity.WebApi >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kelvin Guzmán\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\inetpub\\Github.com\\Microservices_TDD_Core3.1_JWT_React\\tests\\Services\\Home.Identity.WebApi.xUnitTest\\Home.Identity.WebApi.xUnitTest.csproj",
+      "projectName": "Home.Identity.WebApi.xUnitTest",
+      "projectPath": "C:\\inetpub\\Github.com\\Microservices_TDD_Core3.1_JWT_React\\tests\\Services\\Home.Identity.WebApi.xUnitTest\\Home.Identity.WebApi.xUnitTest.csproj",
+      "packagesPath": "C:\\Users\\Kelvin Guzmán\\.nuget\\packages\\",
+      "outputPath": "C:\\inetpub\\Github.com\\Microservices_TDD_Core3.1_JWT_React\\tests\\Services\\Home.Identity.WebApi.xUnitTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Kelvin Guzmán\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\inetpub\\Github.com\\Microservices_TDD_Core3.1_JWT_React\\src\\Services\\Identity\\Home.Identity.WebApi\\Home.Identity.WebApi.csproj": {
+              "projectPath": "C:\\inetpub\\Github.com\\Microservices_TDD_Core3.1_JWT_React\\src\\Services\\Identity\\Home.Identity.WebApi\\Home.Identity.WebApi.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Home.Framework is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Home.Framework supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Home.Framework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

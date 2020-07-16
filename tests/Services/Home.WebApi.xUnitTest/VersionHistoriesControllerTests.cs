@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Home.WebApi.xUnitTest
+{
+    class VersionHistoriesControllerTests
+    {
+    }
+
+    #region << GET >>
+
+
+
+    #endregion
+
+    #region << GET BY ID >>
+
+
+
+    #endregion
+
+    #region << GET - SEARCHER >>
+
+
+
+    #endregion
+
+    #region << CREATE - POST >>
+
+
+
+    #endregion
+
+    #region << UPDATE - PUT >>
+
+
+
+    #endregion
+
+    #region << DELETE >>
+
+
+
+    #endregion
+
+}

@@ -1,0 +1,8 @@
+C:\inetpub\Home\src\Frameworks\Generic.Framework\bin\Debug\netstandard2.0\Generic.Framework.deps.json
+C:\inetpub\Home\src\Frameworks\Generic.Framework\bin\Debug\netstandard2.0\Generic.Framework.dll
+C:\inetpub\Home\src\Frameworks\Generic.Framework\bin\Debug\netstandard2.0\Generic.Framework.pdb
+C:\inetpub\Home\src\Frameworks\Generic.Framework\obj\Debug\netstandard2.0\Generic.Framework.AssemblyInfoInputs.cache
+C:\inetpub\Home\src\Frameworks\Generic.Framework\obj\Debug\netstandard2.0\Generic.Framework.AssemblyInfo.cs
+C:\inetpub\Home\src\Frameworks\Generic.Framework\obj\Debug\netstandard2.0\Generic.Framework.csproj.CoreCompileInputs.cache
+C:\inetpub\Home\src\Frameworks\Generic.Framework\obj\Debug\netstandard2.0\Generic.Framework.dll
+C:\inetpub\Home\src\Frameworks\Generic.Framework\obj\Debug\netstandard2.0\Generic.Framework.pdb

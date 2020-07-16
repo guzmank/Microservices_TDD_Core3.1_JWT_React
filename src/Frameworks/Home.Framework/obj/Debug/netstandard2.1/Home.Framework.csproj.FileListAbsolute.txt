@@ -1,0 +1,12 @@
+C:\inetpub\Home\src\Frameworks\Home.Framework\bin\Debug\netstandard2.1\Home.Framework.deps.json
+C:\inetpub\Home\src\Frameworks\Home.Framework\bin\Debug\netstandard2.1\Home.Framework.dll
+C:\inetpub\Home\src\Frameworks\Home.Framework\bin\Debug\netstandard2.1\Home.Framework.pdb
+C:\inetpub\Home\src\Frameworks\Home.Framework\bin\Debug\netstandard2.1\Generic.Framework.dll
+C:\inetpub\Home\src\Frameworks\Home.Framework\bin\Debug\netstandard2.1\Generic.Framework.pdb
+C:\inetpub\Home\src\Frameworks\Home.Framework\obj\Debug\netstandard2.1\Home.Framework.csprojAssemblyReference.cache
+C:\inetpub\Home\src\Frameworks\Home.Framework\obj\Debug\netstandard2.1\Home.Framework.AssemblyInfoInputs.cache
+C:\inetpub\Home\src\Frameworks\Home.Framework\obj\Debug\netstandard2.1\Home.Framework.AssemblyInfo.cs
+C:\inetpub\Home\src\Frameworks\Home.Framework\obj\Debug\netstandard2.1\Home.Framework.csproj.CoreCompileInputs.cache
+C:\inetpub\Home\src\Frameworks\Home.Framework\obj\Debug\netstandard2.1\Home.Framework.csproj.CopyComplete
+C:\inetpub\Home\src\Frameworks\Home.Framework\obj\Debug\netstandard2.1\Home.Framework.dll
+C:\inetpub\Home\src\Frameworks\Home.Framework\obj\Debug\netstandard2.1\Home.Framework.pdb

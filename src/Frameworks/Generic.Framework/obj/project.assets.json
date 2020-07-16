@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Kelvin Guzmán\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\inetpub\\Github.com\\Microservices_TDD_Core3.1_JWT_React\\src\\Frameworks\\Generic.Framework\\Generic.Framework.csproj",
+      "projectName": "Generic.Framework",
+      "projectPath": "C:\\inetpub\\Github.com\\Microservices_TDD_Core3.1_JWT_React\\src\\Frameworks\\Generic.Framework\\Generic.Framework.csproj",
+      "packagesPath": "C:\\Users\\Kelvin Guzmán\\.nuget\\packages\\",
+      "outputPath": "C:\\inetpub\\Github.com\\Microservices_TDD_Core3.1_JWT_React\\src\\Frameworks\\Generic.Framework\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Kelvin Guzmán\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
